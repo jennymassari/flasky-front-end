@@ -4,6 +4,7 @@ import App from './App.jsx';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  // here is where the app is built
   <React.StrictMode>
     <App />
   </React.StrictMode>,
